@@ -3,7 +3,7 @@
     {
       "id": 2,
       "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
+      "author": "Collin Powell James"
     },
     {
       "id": 3,
@@ -240,6 +240,46 @@
       "quoteId": 15,
       "createdAt": 1579034735198,
       "id": 44
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1579039846491,
+      "id": 45
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1579039893449,
+      "id": 46
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1579039908613,
+      "id": 47
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1579040049580,
+      "id": 48
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1579040534273,
+      "id": 49
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1579040580572,
+      "id": 50
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1579040585370,
+      "id": 51
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1579041305088,
+      "id": 52
     }
   ]
 }
