@@ -1,61 +1,329 @@
 {
   "quotes": [
     {
-        "id": 1,
-        "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-        "author": "Ann Richards"
+      "id": 4,
+      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
+      "author": "Eleanor Roosevelt"
     },
     {
-        "id": 2,
-        "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-        "author": "Collin Powell"
+      "id": 5,
+      "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
+      "author": "Dorothy Parker"
     },
     {
-        "id": 3,
-        "quote": "Don't count the days, make the days count.",
-        "author": "Mike Tyson"
+      "id": 6,
+      "quote": "Do the best you can in every task, no matter how unimportant it may seem at the time. No one learns more about a problem than the person at the bottom.",
+      "author": "Sandra Day O'Connor"
     },
     {
-        "id": 4,
-        "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-        "author": "Eleanor Roosevelt"
+      "id": 7,
+      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
+      "author": "Benjamin Franklin"
     },
     {
-        "id": 5,
-        "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
-        "author": "Dorothy Parker"
+      "id": 8,
+      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchhill"
     },
     {
-        "id": 6,
-        "quote": "Do the best you can in every task, no matter how unimportant it may seem at the time. No one learns more about a problem than the person at the bottom.",
-        "author": "Sandra Day O'Connor"
+      "id": 9,
+      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
+      "author": "Confucius"
     },
     {
-        "id": 7,
-        "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-        "author": "Benjamin Franklin"
+      "quote": "\"got it\"",
+      "author": "saman",
+      "id": 10
     },
     {
-        "id": 8,
-        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-        "author": "Winston Churchhill"
-    },
-    {
-        "id": 9,
-        "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-        "author": "Confucius"
-    },
-    {
-        "id": 10,
-        "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-        "author": "Sonia Sotomayor"
+      "quote": "\"we got it\"",
+      "author": "natalie",
+      "likes": [],
+      "id": 11
     }
   ],
   "likes": [
     {
-        "id": 1,
-        "quoteId": 1,
-        "createdAt": 1558524356
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "quoteID": "1",
+      "id": 20
+    },
+    {
+      "quoteID": "1",
+      "id": 21
+    },
+    {
+      "quoteID": "2",
+      "id": 22
+    },
+    {
+      "quoteID": "2",
+      "id": 23
+    },
+    {
+      "quoteID": "2",
+      "id": 24
+    },
+    {
+      "quoteID": "2",
+      "id": 25
+    },
+    {
+      "quoteID": "2",
+      "id": 26
+    },
+    {
+      "quoteID": "2",
+      "id": 27
+    },
+    {
+      "quoteID": "2",
+      "id": 28
+    },
+    {
+      "quoteID": "1",
+      "id": 29
+    },
+    {
+      "quoteID": "1",
+      "id": 30
+    },
+    {
+      "quoteID": "1",
+      "id": 31
+    },
+    {
+      "quoteID": "1",
+      "id": 32
+    },
+    {
+      "quoteID": "1",
+      "id": 33
+    },
+    {
+      "quoteID": "1",
+      "id": 34
+    },
+    {
+      "quoteID": "1",
+      "id": 35
+    },
+    {
+      "quoteID": "1",
+      "id": 36
+    },
+    {
+      "quoteID": "3",
+      "id": 37
+    },
+    {
+      "quoteID": "1",
+      "id": 38
+    },
+    {
+      "quoteID": "2",
+      "id": 39
+    },
+    {
+      "quoteID": "3",
+      "id": 40
+    },
+    {
+      "quoteID": "4",
+      "id": 41
+    },
+    {
+      "quoteID": "1",
+      "id": 42
+    },
+    {
+      "quoteID": "2",
+      "id": 43
+    },
+    {
+      "quoteID": "3",
+      "id": 44
+    },
+    {
+      "quoteID": "1",
+      "id": 45
+    },
+    {
+      "quoteID": "1",
+      "id": 46
+    },
+    {
+      "quoteID": "1",
+      "id": 47
+    },
+    {
+      "quoteID": "2",
+      "id": 48
+    },
+    {
+      "quoteID": "2",
+      "id": 49
+    },
+    {
+      "quoteID": "2",
+      "id": 50
+    },
+    {
+      "quoteID": "2",
+      "id": 51
+    },
+    {
+      "quoteID": "2",
+      "id": 52
+    },
+    {
+      "quoteID": "2",
+      "id": 53
+    },
+    {
+      "quoteID": "2",
+      "id": 54
+    },
+    {
+      "quoteID": "2",
+      "id": 55
+    },
+    {
+      "quoteID": "2",
+      "id": 56
+    },
+    {
+      "quoteID": "2",
+      "id": 57
+    },
+    {
+      "quoteID": "2",
+      "id": 58
+    },
+    {
+      "quoteID": 1,
+      "id": 59
+    },
+    {
+      "quoteID": 1,
+      "id": 60
+    },
+    {
+      "quoteID": 2,
+      "id": 61
+    },
+    {
+      "quoteID": 1,
+      "id": 62
+    },
+    {
+      "quoteID": 1,
+      "id": 63
+    },
+    {
+      "quoteID": 2,
+      "id": 64
+    },
+    {
+      "quoteID": 1,
+      "id": 65
+    },
+    {
+      "quoteID": 1,
+      "id": 66
+    },
+    {
+      "quoteID": 2,
+      "id": 67
+    },
+    {
+      "quoteID": 3,
+      "id": 68
+    },
+    {
+      "quoteID": 1,
+      "id": 69
+    },
+    {
+      "quoteID": 1,
+      "id": 70
+    },
+    {
+      "quoteID": 1,
+      "id": 71
+    },
+    {
+      "quoteID": 1,
+      "id": 72
+    },
+    {
+      "quoteID": 1,
+      "id": 73
+    },
+    {
+      "quoteID": 1,
+      "id": 74
+    },
+    {
+      "quoteID": 1,
+      "id": 75
+    },
+    {
+      "quoteID": 1,
+      "id": 76
     }
   ]
 }
